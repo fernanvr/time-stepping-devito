@@ -1,0 +1,5 @@
+numpy>=1.18.0
+sympy>=1.7.0
+devito>=4.6.0
+jupyter>=1.0.0
+matplotlib>=3.3.0
